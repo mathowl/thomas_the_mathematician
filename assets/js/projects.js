@@ -44,7 +44,7 @@ let render_projects = (slug) => {
             image: 'assets/images/tinder.png',
             link: '#',
             title: 'Tinder data analysis',
-            demo: false,
+            demo: 'bla',
             technologies: ['Python', 'Social science','Statistics'],
             description: "Anomized data repo, comparing user data to user experience (In preparation)",
             categories: ['featured','coding', 'applied math','data science']
