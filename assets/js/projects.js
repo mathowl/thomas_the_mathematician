@@ -13,7 +13,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/micrograph_cell_wall.png',
             link: 'https://www.sciencedirect.com/science/article/pii/S002251932030045X',
-            title: 'Modelling fungal test',
+            title: 'Modelling fungal bla',
             demo: false,
             technologies: ['Math', 'Biology', 'Matlab'],
             description: "Tip growth is growth of singular cell in a single direction. A novel model for fungal tip growth is formulated using bio-mechanics.",
