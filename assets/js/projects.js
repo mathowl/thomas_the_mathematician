@@ -42,7 +42,7 @@ let render_projects = (slug) => {
 
         {
             image: 'assets/images/tinder.png',
-            link: false,
+            link: '#',
             title: 'Tinder data analysis',
             demo: false,
             technologies: ['Python', 'Social science','Statistics'],
@@ -53,7 +53,7 @@ let render_projects = (slug) => {
         
         {
             image: 'assets/images/archeo.png',
-            link: false,
+            link: '#',
             title: 'Fire-discovery during midpleistoscene',
             demo: false,
             technologies: ['Python', 'Archeology','Statistics'],
