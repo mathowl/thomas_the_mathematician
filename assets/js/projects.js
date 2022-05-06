@@ -13,7 +13,7 @@ let render_projects = (slug) => {
         {
             image: 'assets/images/micrograph_cell_wall.png',
             link: 'https://www.sciencedirect.com/science/article/pii/S002251932030045X',
-            title: 'Modelling fungal bla',
+            title: 'Modelling fungal tip growth',
             demo: false,
             technologies: ['Math', 'Biology', 'Matlab'],
             description: "Tip growth is growth of singular cell in a single direction. A novel model for fungal tip growth is formulated using bio-mechanics.",
@@ -44,7 +44,7 @@ let render_projects = (slug) => {
             image: 'assets/images/tinder.png',
             link: '#',
             title: 'Tinder data analysis',
-            demo: 'bla',
+            demo: false,
             technologies: ['Python', 'Social science','Statistics'],
             description: "Anomized data repo, comparing user data to user experience (In preparation)",
             categories: ['featured','coding', 'applied math','data science']
