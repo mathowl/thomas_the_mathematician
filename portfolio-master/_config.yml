@@ -1,0 +1,21 @@
+title: Thomas Geert de Jong
+description: Applied mathematician
+site_title: '@tgdejong - Thomas Geert de Jong'
+
+# Build settings
+markdown: kramdown
+exclude: [vendor/ruby]
+
+# Personalization
+github_username: mathowl
+blog_url: https://peakd.com/@mathowl
+email: t.g.de.jong.math@gmail.com
+keybase_username: 
+twitter_username: 
+reddit_username: 
+
+# absolute or relative
+profile_picture: assets/images/pp.jpg
+
+# Google Analytics ID
+google_analytics: 
