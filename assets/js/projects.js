@@ -96,7 +96,7 @@ let render_projects = (slug) => {
             link: 'https://www.researchgate.net/publication/352248059_Preservation_of_vector_graphical_representation_classes_for_generative_neural_nets',
             title: 'Vector graphics and neural nets',
             demo: false,
-            technologies: ['AI','maths','python'],
+            technologies: ['AI','Math','Python'],
             description: "Finding properties that are preserved when neural nets generate vector graphics",
             categories: ['applied math', 'coding','AI']
         }
