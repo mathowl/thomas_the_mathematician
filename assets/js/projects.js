@@ -99,6 +99,16 @@ let render_projects = (slug) => {
             technologies: ['AI','Math','Python'],
             description: "Finding properties that are preserved when neural nets generate vector graphics",
             categories: ['applied math', 'coding','AI']
+        },
+        
+                {
+            image:  'assets/images/axsym.png',
+            link: 'https://link.springer.com/article/10.1007/s10440-022-00517-7',
+            title: 'Uniqueness of Local, Analytic Solutions to Singular ODEs',
+            demo: false,
+            technologies: ['Math'],
+            description: "Existence, uniqueness of local, analytic solutions for a class of initial value problems for singular ODEs under a certain non-resonance condition.",
+            categories: ['applied math']
         }
 
     ]
