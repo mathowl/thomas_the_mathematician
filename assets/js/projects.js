@@ -102,7 +102,7 @@ let render_projects = (slug) => {
         },
         
                 {
-            image:  'assets/images/axsym.jpg',
+            image:  'assets/images/axsym.png',
             link: 'https://link.springer.com/article/10.1007/s10440-022-00517-7',
             title: 'Uniqueness of Local, Analytic Solutions to Singular ODEs',
             demo: false,
