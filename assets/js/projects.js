@@ -107,7 +107,7 @@ let render_projects = (slug) => {
             title: 'Uniqueness of Local, Analytic Solutions to Singular ODEs',
             demo: false,
             technologies: ['Math'],
-            description: "Existence, uniqueness of local, analytic solutions for a class of initial value problems for singular ODEs under a certain non-resonance condition.",
+            description: "Existence, uniqueness of local, analytic solutions for a class of initial value problems for singular ODEs for modelling axially symmetric shells",
             categories: ['applied math']
         }
 
